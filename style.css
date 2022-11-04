@@ -1,0 +1,48 @@
+/* table{
+    background:#EEEAE0 ;
+    width: 575px;
+    height: 280px;
+}
+tbody td {
+background:FFD8BF ;
+width: 80px;
+height: 45;
+
+}
+.column1{
+width: 155px;
+} */
+
+table{
+    background: #EEEAE0 ;
+padding: 20px;
+color: #656670;
+border-radius: 20px;
+}
+ tbody td{
+    background:#FFD8BF ;
+} 
+td{
+padding: 15px;
+width: 80px;
+border: 2px solid #EEEAE0;
+}
+.column1{
+    width: 155px;
+}
+caption{ 
+margin-bottom:20px;
+text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
